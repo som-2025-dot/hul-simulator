@@ -1,4 +1,7 @@
 # 🧴 HUL Price & Revenue Simulator
+## 📈 Demo
+
+👉 [Live App on Streamlit](https://hul-simulator-qbs7zmudubbbjb7zckednb.streamlit.app/)
 
 An interactive Streamlit web app that predicts the impact of price changes on:
 - 🧾 Units sold
